@@ -1,0 +1,24 @@
+D:\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+D:\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+D:\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.FrmCalculator.resources
+D:\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.FrmEntryCalculator.resources
+D:\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+D:\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\SEMESTER 3\Pemrograman Lanjut\Tugas\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+D:\Pemrograman lanjut\Tugas\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\Pemrograman lanjut\Tugas\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\Pemrograman lanjut\Tugas\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\Pemrograman lanjut\Tugas\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+D:\Pemrograman lanjut\Tugas\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+D:\Pemrograman lanjut\Tugas\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.FrmCalculator.resources
+D:\Pemrograman lanjut\Tugas\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.FrmEntryCalculator.resources
+D:\Pemrograman lanjut\Tugas\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\Pemrograman lanjut\Tugas\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+D:\Pemrograman lanjut\Tugas\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\Pemrograman lanjut\Tugas\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\Pemrograman lanjut\Tugas\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
